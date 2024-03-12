@@ -5,6 +5,6 @@ Vše je jednoduše udělané, jsou k dispozici dva řádky blipů do legendy, do
 1. Stáhnout obsah repozitáře.
 2. Nahrát blips-system do složky resources na tvém serveru.
 - Konfigurace
+c_main.lua
 
 ![image](https://github.com/Lukkay/mtasa-blips-system/assets/162629758/29264e05-1140-4f60-afaa-934f6b1b57be)
-(c_main.lua)
