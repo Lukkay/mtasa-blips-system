@@ -7,3 +7,4 @@ Vše je jednoduše udělané, jsou k dispozici dva řádky blipů do legendy, do
 - Konfigurace
 
 ![image](https://github.com/Lukkay/mtasa-blips-system/assets/162629758/29264e05-1140-4f60-afaa-934f6b1b57be)
+(c_main.lua)
