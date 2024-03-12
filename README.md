@@ -3,7 +3,9 @@ Vše je jednoduše udělané, jsou k dispozici dva řádky blipů do legendy, do
 
 # Instalace a konfigurace
 1. Stáhnout obsah repozitáře.
-2. Nahrát blips-system do složky resources na tvém serveru.
+2. Nahrát lukk_blips do složky resources na tvém serveru.
+3. Zapsat lukk_blips do mtaserver.conf.
+4. Spustit server a nakonfigurovat si své blipy!
 - Konfigurace - c_main.lua
 
 ![image](https://github.com/Lukkay/mtasa-blips-system/assets/162629758/29264e05-1140-4f60-afaa-934f6b1b57be)
